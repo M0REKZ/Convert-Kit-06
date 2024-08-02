@@ -22,7 +22,7 @@ Everything at /04/ was taken from a Teeworlds 0.4 release except for grass_dooda
 
 Everything at /05/ except for 3 images were taken from a Teeworlds 0.5 release, winter_main.png, winter_doodads.png were taken from a Teewars release and dilated, and grass_main.png is a remake made using the one from /04/
 
-Everything at /07/ was taken from a Teeworlds 0.7 release
+Everything at /07/ was taken from a Teeworlds 0.7 release except for /old/grass_doodads.png which was taken from DDNet Trunk
 
 /04/debug_font.png is included since it was found to be used on a map
 
