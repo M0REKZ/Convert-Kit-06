@@ -3,7 +3,6 @@
 
 # How to use
 
-- Delete the folder named Delete_me, it is not needed
 - Install this folder at the DDNet mapres folder
 - Open the old map in DDNet
 - Go to images section
@@ -13,8 +12,8 @@
 
 # Before and after
 
-![before](https://raw.githubusercontent.com/M0REKZ/Convert-Kit-06/main/Delete_me/before.png)
-![after](https://raw.githubusercontent.com/M0REKZ/Convert-Kit-06/main/Delete_me/after.png)
+![before](https://cdn.discordapp.com/attachments/1158413033681457194/1290711270626168872/before.png?ex=66fd740b&is=66fc228b&hm=96db45d8ff696736649d3b780e28071b4d4b7f9df3b16f60a29b67909ec4e980&)
+![after](https://cdn.discordapp.com/attachments/1158413033681457194/1290711269669601291/after.png?ex=66fd740a&is=66fc228a&hm=35be3585e33b825a4fb5e9b38c3ea299dab43c047c343e96b6c4e140fc85763f&)
 
 # Details for the images
 
